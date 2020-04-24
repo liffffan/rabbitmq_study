@@ -1,0 +1,10 @@
+rabbitmq:
+  host: 118.25.192.6
+  port: 5672
+  user: admin
+  pwd: admin
+
+
+
+mysql:
+  host:localhost
